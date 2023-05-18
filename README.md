@@ -2,14 +2,14 @@ Jo, Magnus, ik dacht het als volgt te maken:
 
 Magic (folder):
   - Cards (subfolder met kaarten die af zijn):
-        - Creatures
-        - Enchantments
-        - Instants
-        - Lands
-        - Sorceries
+        1 Creatures
+        2 Enchantments
+        3 Instants
+        4 Lands
+        5 Sorceries
   - Images (subfolder met alle images van de kaarten):
-        - Creatures
-        - Enchantments
-        - Instants
-        - Lands
-        - Sorceries
+        1 Creatures
+        2 Enchantments
+        3 Instants
+        4 Lands
+        5 Sorceries
